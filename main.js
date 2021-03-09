@@ -69,3 +69,6 @@ const myRandomObject = {
 console.log(myCodeImmersivesObj);
 console.log(myDescriptiveObject);
 console.log(myRandomObject);
+
+
+console.log(myCodeImmersivesObj['I am exactly this cool'])
